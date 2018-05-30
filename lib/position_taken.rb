@@ -2,5 +2,8 @@
 
 def position_taken? (board, index)
   array[index_number]
-  number == " "
+  if number == " "
+  "false"
+else number != " "
+  "true"
 end
